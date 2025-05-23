@@ -40,18 +40,18 @@ TRUE_UP_401K/
     -Plan entry date before January 1, 2023.
     -Active on December 31, 2022.
 
--**Calculates:**
+- **Calculates:**
 
     -Employee deferral percentage.
     -Employer match using a tiered formula.
     -True-up amount (difference between actual match and entitled match).
 
--**Outputs results as CSV files in the outputs/ folder:**
+- **Outputs results as CSV files in the outputs/ folder:**
 
     -eligible_true_up.csv — eligible employees and their respective calculations.
     -non_eligible_employees.csv — ineligible employees with reasons for ineligibility.
 
--**Includes a per-employee recap script (recap_true_up.py) for detailed summaries by Employee ID.**
+- **Includes a per-employee recap script (recap_true_up.py) for detailed summaries by Employee ID.**
 
 ## 🚀 How to Run
 
