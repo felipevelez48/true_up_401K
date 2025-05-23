@@ -1,0 +1,34 @@
+ID,Birth_Date_MM/DD/YYYY,Hire_Date,Termination_Date,Rehire_Date,Gross_compensation,Plan_eligible_comp,Employee_deduction_1_Pre-tax_amount,Employee_deduction_2_Roth_Deferral,Employer_Match,Hours_worked_2022,Employee_Status,Entry_date,Age,Ternure_Years,Is_Active,Ineligibility_Reason
+Employee 2,1931-12-18,2019-01-19,,,36328.55,36328.55,1018.17,,294.5,1500,Part-Time,2019-03-01,94,6.34,True,Not full-time
+Employee 5,1991-04-03,2017-06-07,2023-02-20,,71936.25,71936.25,3925.84,,3515.56,2080,Full-Time,2017-08-01,34,5.71,False,Not active on 12/31/2022
+Employee 6,2001-08-16,2022-04-11,2022-12-19,,31228.2,,,,,1474,Full-Time,2024-09-01,24,0.69,False,Entry date after 2022; Not active on 12/31/2022
+Employee 8,1958-06-11,2019-02-06,,,17722.75,17722.75,1166.38,,641.77,877,Part-Time,2019-04-01,67,6.3,True,Less than 1000 hours; Not full-time
+Employee 9,1995-06-26,2022-03-29,2023-11-03,,36900.04,36020.04,1037.1,,956.02,1397,Full-Time,2022-05-01,30,1.6,False,Not active on 12/31/2022
+Employee 14,1970-01-16,2012-04-06,2024-02-18,,31517.81,31517.81,,,,1187,Part-Time,2015-01-01,55,11.88,False,Not active on 12/31/2022; Not full-time
+Employee 21,1946-06-17,2015-10-30,2023-11-08,,39080.01,39080.01,2164.2,,1748.51,1893,Full-Time,2015-12-01,79,8.03,False,Not active on 12/31/2022
+Employee 30,1965-02-06,2019-04-20,,,18214.32,18214.32,511.65,,235.06,645,Part-Time,2019-06-01,60,6.1,True,Less than 1000 hours; Not full-time
+Employee 34,1970-09-22,2019-08-23,2023-11-29,,33414.71,33414.71,938.25,,452.21,1527,Part-Time,2019-10-01,55,4.27,False,Not active on 12/31/2022; Not full-time
+Employee 35,2003-07-31,2022-05-30,2022-07-31,,1301.3,,,,,76,Part-Time,2024-08-01,22,0.17,False,Entry date after 2022; Not active on 12/31/2022; Less than 1000 hours; Not full-time
+Employee 36,1991-06-11,2014-06-12,2023-06-29,,169403.11,168936.93,3572.64,,294.08,2080,Full-Time,2014-08-01,34,9.05,False,Not active on 12/31/2022
+Employee 37,1997-06-25,2015-06-10,,,67323.16,41195.16,1144.06,,306.88,1541,Part-Time,2018-06-01,28,9.96,True,Not full-time
+Employee 40,1995-08-10,2021-08-06,2023-05-04,,49757.75,49757.75,1419.98,,1172.98,1973,Full-Time,2021-10-01,30,1.74,False,Not active on 12/31/2022
+Employee 41,1998-09-09,2020-08-10,,,17170.99,17170.99,515.13,,388.26,819,Full-Time,2020-10-01,27,4.79,True,Less than 1000 hours
+Employee 42,1954-07-09,1995-09-15,,,43970.94,43970.94,260.0,,243.79,1457,Part-Time,1995-11-01,71,29.71,True,Not full-time
+Employee 43,1995-04-16,2019-04-11,,,25189.64,25189.64,755.68,,727.88,925,Full-Time,2019-06-01,30,6.12,True,Less than 1000 hours
+Employee 45,1972-07-18,2012-11-29,,,8908.02,8908.02,252.25,,197.94,289,Part-Time,2013-01-01,53,12.49,True,Less than 1000 hours; Not full-time
+Employee 47,1981-08-18,2022-03-03,2023-09-03,,32687.76,27933.86,796.04,,96.05,802,Full-Time,2022-05-01,44,1.5,False,Not active on 12/31/2022; Less than 1000 hours
+Employee 49,2004-01-24,2022-05-06,2022-08-07,,1209.96,,,,,63,Part-Time,2025-02-01,21,0.25,False,Entry date after 2022; Not active on 12/31/2022; Less than 1000 hours; Not full-time
+Employee 54,1954-09-26,2017-01-30,2022-03-23,,10217.83,10217.83,930.11,,310.31,484,Full-Time,2017-03-01,71,5.15,False,Not active on 12/31/2022; Less than 1000 hours
+Employee 57,1994-03-28,2022-08-03,2022-09-19,,5327.3,121.5,,,,253,Full-Time,2022-10-01,31,0.13,False,Not active on 12/31/2022; Less than 1000 hours
+Employee 60,1982-09-13,2022-10-29,2022-12-11,,3136.32,2521.92,75.65,,2.9,126,Full-Time,2022-12-01,43,0.12,False,Not active on 12/31/2022; Less than 1000 hours
+Employee 61,1989-01-23,2021-12-01,2022-03-31,,16772.77,14316.77,429.51,,346.9,545,Full-Time,2022-01-01,36,0.33,False,Not active on 12/31/2022; Less than 1000 hours
+Employee 63,1964-02-17,1998-02-01,,,33902.25,33902.25,939.49,,737.78,1070,Part-Time,1998-03-01,61,27.32,True,Not full-time
+Employee 67,1963-10-30,2008-03-27,2022-08-22,,27189.5,27189.5,1903.26,,5.74,1545,Full-Time,2016-07-01,62,14.41,False,Not active on 12/31/2022
+Employee 72,1997-04-27,2022-10-07,2023-01-08,,8265.1,4361.1,123.04,,92.67,396,Full-Time,2022-12-01,28,0.25,False,Not active on 12/31/2022; Less than 1000 hours
+Employee 73,1975-05-28,2021-11-05,,,37438.86,37438.86,1066.17,,378.29,1749,Part-Time,2022-01-01,50,3.55,True,Not full-time
+Employee 74,2000-01-03,2022-09-15,,,12055.2,8400.9,240.04,,221.45,577,Full-Time,2022-11-01,25,2.69,True,Less than 1000 hours
+Employee 75,1992-05-31,2022-06-30,2022-09-19,,8032.0,5378.0,161.34,,16.43,390,Part-Time,2022-08-01,33,0.22,False,Not active on 12/31/2022; Less than 1000 hours; Not full-time
+Employee 76,1989-01-13,2022-12-08,,,2516.3,,,,,114,Full-Time,2023-02-01,36,2.46,True,Entry date after 2022; Less than 1000 hours
+Employee 77,1995-08-15,2022-09-12,,,12379.6,8441.6,240.81,,165.51,595,Full-Time,2022-11-01,30,2.7,True,Less than 1000 hours
+Employee 79,2000-02-10,2022-09-22,,,11092.6,8411.9,241.55,,18.63,530,Full-Time,2022-11-01,25,2.67,True,Less than 1000 hours
+Employee 81,2002-11-11,2021-05-17,2022-01-23,,1924.05,,,,,109,Full-Time,,23,0.69,False,Entry date after 2022; Not active on 12/31/2022; Less than 1000 hours
